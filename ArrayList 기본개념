@@ -91,7 +91,7 @@ class Kyungseo{
 		 */	
 		
 		for(int num : list) {
-			System.out.println(num);
+			System.out.print(num);
 		}
 		
 		//clear() : ArrayList의 모든 데이터를 제거합니다.
